@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  const apiRoot = 'http://localhost:8080/v1/tasks';
-  const trelloApiRoot = 'http://localhost:8080/v1/trello';
+  const apiRoot = 'application.programer33333.repl.co';
+  const trelloApiRoot = 'application.programer33333.repl.co';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
